@@ -7,8 +7,8 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4 text-secondary">פרטי קשר</h3>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>📱 050-000-0000</p>
-              <p>📧 itzik.math@gmail.com</p>
+              <p>📱 0543910339</p>
+              <p>📧 mathforpros@gmail.com</p>
               <p>📍 אזור המרכז</p>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4 text-secondary">מצאו אותי ברשת</h3>
             <div className="flex justify-center md:justify-end space-x-4 rtl:space-x-reverse">
               <a 
-                href="https://www.facebook.com" 
+                href="https://www.facebook.com/profile.php?id=61550731899986" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary-foreground/80 hover:text-secondary transition-all duration-300 hover:scale-110"
@@ -61,7 +61,7 @@ const Footer = () => {
               </a>
               
               <a 
-                href="https://hakitah.co.il" 
+                href="https://hakita.co.il/profile/index.html?user=%D7%90%D7%99%D7%A6%D7%99%D7%A7+%D7%92%D7%95%D7%9C%D7%93%D7%A8%D7%A8" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary-foreground/80 hover:text-secondary transition-all duration-300 hover:scale-110"
@@ -73,7 +73,7 @@ const Footer = () => {
               </a>
               
               <a 
-                href="https://mathforpros.com" 
+                href="https://mathforpros.com/home" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary-foreground/80 hover:text-secondary transition-all duration-300 hover:scale-110"
