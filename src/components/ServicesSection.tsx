@@ -120,7 +120,7 @@ const ServicesSection = () => {
             <div className="text-center space-y-2">
               <div className="text-3xl">📍</div>
               <div className="font-semibold text-primary">מפגשים נוחים</div>
-              <div className="text-sm text-muted-foreground">אצלכם בבית או מקום נוח אחר</div>
+              <div className="text-sm text-muted-foreground">בבית המורה, אונליין (זום, גוגל מיט וכו)</div>
             </div>
             
             <div className="text-center space-y-2">
