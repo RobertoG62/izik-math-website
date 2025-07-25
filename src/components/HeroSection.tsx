@@ -60,7 +60,7 @@ const HeroSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-secondary rounded-full blur-2xl opacity-30 animate-glow"></div>
               <img 
-                src={itzikProfile} 
+                src="/lovable-uploads/247a13d7-7573-4f71-a0d7-4df5e5689d73.png" 
                 alt="איציק גולדרר - מורה פרטי למתמטיקה"
                 className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full object-cover shadow-elegant border-4 border-white/20 animate-float"
               />
