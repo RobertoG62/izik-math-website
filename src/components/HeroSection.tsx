@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button";
-import itzikProfile from "@/assets/itzik-new-profile.jpg";
 
 const HeroSection = () => {
   const scrollToContact = () => {
